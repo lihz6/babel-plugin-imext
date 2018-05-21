@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-imext",
+  "version": "1.0.0",
+  "description": "A Babel plugin for importing another module based on environment variable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo well done"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngolin/babel-plugin-imext.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin"
+  ],
+  "author": "李鸿章 <paindo@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngolin/babel-plugin-imext/issues"
+  },
+  "homepage": "https://github.com/ngolin/babel-plugin-imext#readme"
+}
